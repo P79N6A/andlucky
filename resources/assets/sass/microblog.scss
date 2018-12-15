@@ -1,0 +1,31 @@
+.no-data{
+	text-align:center;
+	padding:2rem 0rem;
+}
+.com-reply-nums {
+	border-radius:.5rem;
+	padding:0 .5rem;
+	background-color:#e6e6e6;
+	color:#7d7d7d;
+}
+
+.comments {
+	align-items:flex-start !important;
+	
+	.item-subtitle .nickname {
+		font-size:.75rem;
+	}
+	.item-create-time {
+		color:#7d7d7d ;
+	}
+
+	.item-inner:after {
+		border:none ;
+		display:none;
+	}
+
+	.comment-reply {
+		background:#f7f7f7 ;
+		padding-left:.5rem;
+	}
+}

@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+ul.menu-input {
+	list-style:none;
+}
+
+ul.menu-input li {
+	list-style:none;
+}
