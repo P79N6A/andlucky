@@ -1,0 +1,10 @@
+.DS_Store
+.babelrc
+.buildpath
+.env
+.env.example
+.idea/
+.project
+.settings/
+.svn/
+
